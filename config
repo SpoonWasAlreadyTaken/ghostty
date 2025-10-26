@@ -52,4 +52,6 @@
 
 # -----------------------------------------------------
 
-background = 121315
+background = "121315"
+font-family = "Cascadia Mono"
+font-size = "13"
