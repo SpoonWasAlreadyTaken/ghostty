@@ -55,3 +55,9 @@
 background = "121315"
 font-family = "Cascadia Mono"
 font-size = "13"
+
+window-width = "120"
+window-height = "30"
+
+custom-shader = ~/.config/ghostty/shaders/shader.glsl
+
